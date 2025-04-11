@@ -1,0 +1,9 @@
+langchain
+langgraph
+openai
+pdfminer.six
+python-docx
+sqlite-utils
+python-dotenv
+tqdm
+email-validator

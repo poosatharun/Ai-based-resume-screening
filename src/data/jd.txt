@@ -1,0 +1,54 @@
+Job Title: AI Engineer – Recruitment Automation
+Location: Remote
+Experience Level:0 years
+Salary Range: ₹8–12 LPA
+
+Job Overview:
+We are seeking a skilled and motivated AI Engineer to develop an AI-powered job screening system. The role focuses on automating the recruitment process using large language models (LLMs), data intelligence, and multi-agent workflows.
+
+Key Responsibilities:
+
+Build AI agents to read and summarize job descriptions.
+
+Extract relevant details from candidate CVs such as skills, education, and experience.
+
+Match candidate profiles to job descriptions using scoring or embedding techniques.
+
+Shortlist candidates based on defined match thresholds.
+
+Send interview invitations via email, including scheduling details.
+
+Maintain long-term memory of past interactions using SQLite.
+
+Required Skills:
+
+Proficiency in Python.
+
+Experience with LangChain, LangGraph, or similar multi-agent AI frameworks.
+
+Familiarity with large language models (OpenAI, Groq, Cohere, etc.).
+
+Knowledge of SQLite or lightweight relational databases.
+
+Ability to parse PDFs, DOCX, and structured/unstructured CV formats.
+
+Basic experience with email sending tools (SMTP, SendGrid, etc.).
+
+Preferred Qualifications:
+
+Experience designing agent-based workflows.
+
+Exposure to recruitment platforms like LinkedIn or Naukri.
+
+Previous work in HR automation or resume screening tools.
+
+Education:
+Bachelor’s degree in Computer Science, Data Science, or a related field.
+
+Why Join Us?
+
+Build real-world AI solutions that enhance hiring.
+
+Work with a collaborative team focused on innovation.
+
+Remote-first culture with flexible hours and room to grow.
