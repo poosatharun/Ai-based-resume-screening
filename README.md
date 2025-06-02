@@ -2,7 +2,9 @@
 
 Job Screening AI is an application designed to streamline the recruitment process by automating the screening of job descriptions and CVs. This project utilizes various components to summarize job descriptions, parse CVs, score matches, shortlist candidates, and manage interview scheduling.
 
+## 📽 Demo Video
 
+[![Watch the demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://drive.google.com/file/d/1IJLotoC_0fqF-o3l6zljoXCavMkHJXpZ/view?usp=drivesdk)
 
 ## Components
 
